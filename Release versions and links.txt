@@ -1,0 +1,1 @@
+1.0.3 - https://github.com/reaglin/releases/releases/download/v1.0.3/BMPFastSetup.msi 
