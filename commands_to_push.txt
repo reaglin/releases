@@ -1,0 +1,7 @@
+cd "C:\Users\ronal\source\repos\reaglin\Releases"
+git add .
+git commit -m "Release v1.1"
+git push origin master
+
+
+Put the latest version in correct directory and run the commands from git bash in this directory. 
