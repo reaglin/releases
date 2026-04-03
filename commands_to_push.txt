@@ -1,7 +1,16 @@
 cd "C:\Users\ronal\source\repos\reaglin\Releases"
 git add .
-git commit -m "Release v1.1"
+git commit -m "Release v1.0.2" Change release version
 git push origin master
 
+When creating the setup, be sure to increment the version in setup/cdproj file 
 
-Put the latest version in correct directory and run the commands from git bash in this directory. 
+To create a release. 
+
+In your reaglin/releases repo on GitHub, click Releases → Draft a new release. 
+
+Set tag to increment of version
+Tags, create new tag (put in latest version number)
+
+Attach the MSI file as a release asset by dragging it onto the upload area. You can copy path to the release version of the msi file. 
+
